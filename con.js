@@ -6,3 +6,5 @@
   Python
 }
 #????Karabakh humanitarian fears grow with thousands sleeping on Stepanakert streets
+
+#The US Geological Survey (USGS) says
