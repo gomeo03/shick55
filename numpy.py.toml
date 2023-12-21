@@ -1,3 +1,4 @@
+[load]
 [package]
 name = "sway-parse"
 version = "0.45.0"
